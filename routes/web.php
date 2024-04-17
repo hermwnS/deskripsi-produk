@@ -16,4 +16,4 @@ use App\Http\Controllers\deskripsiProdukController;
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('deskripsi/{id}', [deskripsiProdukController::class, 'deskripsiProduk']);
+Route::get('deskripsi/{id}', [deskripsiProdukController::class, 'deskripsiProduk']); 
