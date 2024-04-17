@@ -10,6 +10,6 @@ class deskripsiProdukController extends Controller
     public function deskripsiProduk($id)
     {
         $deskripsi = dekripsiProduk::find($id);
-        return view('deskripsi', compact('deskripsi'));
+        return view('deskripsi', compact('deskripsi')); 
     }
 }
