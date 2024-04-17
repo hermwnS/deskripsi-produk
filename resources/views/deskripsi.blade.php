@@ -38,7 +38,7 @@
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="#"><i id="keranjang" class="bi bi-cart text-black me-2" style="font-size: 25px"></i></a>
-                        </li>
+                        </li> 
 
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="#"><i class="bi bi-person-circle text-black me-1" style="font-size: 25px"></i></a>
