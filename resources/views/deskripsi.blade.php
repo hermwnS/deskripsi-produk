@@ -68,7 +68,7 @@
                                 </tr>
                                 <tr>
                                     <th>Rating</th>
-                                    <td>
+                                    <td> 
                                         {{ $deskripsi->rating }}
                                         <i class="fa-solid fa-star" style="color: orange;"></i>
                                         <i class="fa-solid fa-star" style="color: orange;"></i>
