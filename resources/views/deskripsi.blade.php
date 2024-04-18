@@ -83,7 +83,7 @@
                                 <a href="#" class="btn btn-primary" id="beli">Beli</a>
                             </div>
                         </div>
-                    </div>
+                    </div> 
                 </div>
             </div>
         </div>
