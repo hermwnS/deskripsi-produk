@@ -53,7 +53,7 @@
         <div class="card mb-4 mt-4 ms-4 me-4" style="width: auto;">
             <div class="container text-center">
                 <div class="row">
-                    <div class="col-sm-8"><img src="data:image/png;base64, {{ base64_encode($deskripsi->gambar) }}" class="card-img-top" alt="Gambar"></div>
+                    <div class="col-sm-8"><img src="data:image/png;base64, {{ base64_encode($deskripsi->gambar) }}" class="card-img-top" alt="Gambar"></div> 
                     <div class="col-sm-4">
                         <div class="card-body">
                             <h5 class="card-title">{{ $deskripsi->nama_produk }}</h5>
