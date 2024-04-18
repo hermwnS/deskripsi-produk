@@ -10,10 +10,6 @@ class deskripsiProdukController extends Controller
     public function deskripsiProduk($id)
     {
         $deskripsi = dekripsiProduk::find($id);
-<<<<<<< Updated upstream
         return view('deskripsi', compact('deskripsi'));
-=======
-        return view('deskripsi', compact('deskripsi'));  
->>>>>>> Stashed changes
     }
 }
