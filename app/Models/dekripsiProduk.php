@@ -18,3 +18,4 @@ class dekripsiProduk extends Model
         'rating'
     ];
 }
+ 
