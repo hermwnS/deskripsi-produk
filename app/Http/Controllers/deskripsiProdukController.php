@@ -13,3 +13,4 @@ class deskripsiProdukController extends Controller
         return view('deskripsi', compact('deskripsi'));
     }
 }
+ 
